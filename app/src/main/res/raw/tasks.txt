@@ -1,0 +1,3 @@
+CS342 midterm ;; Finish Amherst.Do app ;; 1
+CS589 midterm ;; Study for exam ;; 2
+Math294 take-home ;; Go to prof's office hours ;; 3
